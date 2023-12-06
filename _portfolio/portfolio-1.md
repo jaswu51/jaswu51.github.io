@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Personal Robot"
+excerpt: "Identify the human and perform follow-me motion tracking<br/><img src='/images/raspberry_car.jpeg' style='width: 66%;'/>"
 collection: portfolio
 ---
 
