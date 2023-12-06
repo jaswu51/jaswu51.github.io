@@ -5,6 +5,6 @@ excerpt: 'This paper provides a comphrehensive review for various Graph Embeddin
 using PyG, DGL, and NetworkX libraries.'
 date: 2022-07-01
 venue: 'Poster, Tenth European Big Data Management & Analytics Summer School'
-paperurl: 'http://academicpages.github.io/files/A-Survey-Of-Graph-Embedding.pdf'
+paperurl: 'http://jaswu51.github.io/files/A-Survey-Of-Graph-Embedding.pdf'
 ---
 This paper is about the number 3. The number 4 is left for future work.
