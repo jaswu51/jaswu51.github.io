@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yi (Jasmine) WU"
-  avatar           : "/images/yiwu_photo.png"
+  avatar            : "yiwu.png"
   bio              : "Robotics and Humans"
   # location         : "Location"
   # employer         :
