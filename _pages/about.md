@@ -16,7 +16,7 @@ redirect_from:
 
 I obtained my bachelor of Information Management and Information Systems; and a second bachelor of Digital Art Design from Tsinghua University. 
 
-I further pursued Erasmus joint master's degree in Big Data Management and Analysis from Université Libre de Bruxelles, Universitat Politècnica de Catalunya and Université Paris-Saclay(primary).  
+I further pursued Erasmus joint master's degree in Big Data Management and Analysis from Université Libre de Bruxelles, Universitat Politècnica de Catalunya and (primarily) Université Paris-Saclay.  
 
 
 
