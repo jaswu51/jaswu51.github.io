@@ -29,4 +29,4 @@ I have been a part-time research intern since 2022 for over a year at the Cognit
 ======
 # Research Highlights
 
-<iframe width="560" height="315" src="https://youtu.be/eO2Xg390JKw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="http://www.youtube.com/embed/eO2Xg390JKw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
