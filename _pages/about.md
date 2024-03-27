@@ -29,4 +29,4 @@ I have been a part-time research intern since 2022 for over a year at the Cognit
 ======
 # Research Highlights
 
-[![Thumbnail](http://img.youtube.com/vi/eO2Xg390JKw/0.jpg)](http://www.youtube.com/watch?v=eO2Xg390JKw)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eO2Xg390JKw?si=mOFNsqoG9LMpq7-0" title="Physics Representation Learning for Dexterous Manipulation Planning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
